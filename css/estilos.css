@@ -25,6 +25,10 @@ body{
 .blog p{
     line-height: 1.4;
 }
-h3{
-    
+.blog h3{
+    background: #177E89;
+    color: #fff;
+    padding: 20px 40px;
+    font-weight: 400;
+    width: 100%; 
 }
