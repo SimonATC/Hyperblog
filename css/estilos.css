@@ -1,4 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-    background: #000;
-    color: #fff;
+    background: #fff;
+    color: rgba(41, 32, 32, 0.8);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.blog{
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border: 1px solid #cdcdcd;
+    padding: 40px;
+    -webkit-box-shadow: 0px 0px 30px 20px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 30px 20px rgba(0,0,0,0.2);
+    box-shadow: 0px 0px 30px 20px rgba(0,0,0,0.2);
+}
+.blog h1{
+    color: #000000;
+    padding-bottom: 20px;
+}
+.blog p{
+    line-height: 1.4;
 }
