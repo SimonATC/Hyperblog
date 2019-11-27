@@ -11,5 +11,6 @@ En este curso vemos todo:
 *El verdadero amor por las nuevas prácticas
 * Trucos muy  locos del profesor
 *Las personalidades multiples de Freddy
+*Incluye ejemplos en windowes, linux y mac
 
 Y como un amable recordatorio **Este readme md es un ch}iste**  Diseñado para el ejemplo. Si llegas ACÁ ERES UN CRACK.
